@@ -58,6 +58,6 @@ passport.deserializeUser(function(id, done) {
 
 
 //list of the routes
-app.use('/apm/actions/',homeRoute(router,sql,md5,moment,jwt));
+app.use('/',homeRoute(router,sql,md5,moment,jwt));
 
 module.exports = app;
