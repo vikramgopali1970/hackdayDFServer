@@ -23,7 +23,7 @@
   "homepage": "https://github.com/vikramgopali1970/node-server-mysql#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "express-session": "^1.15.6",
     "html-metadata": "git://github.com/wikimedia/html-metadata.git",
